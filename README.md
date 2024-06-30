@@ -67,4 +67,41 @@ Usage
   (OPEN 2 Chrome Tabs IN WHICH ONE SHOULD BE ON INCOGNITO TO TEST ALL THE FEATURES) 
 
 ScreenShots-
+Login Page
 ![Screenshot 2024-06-29 142451](https://github.com/AbhishekBharambe2002/ChatApp/assets/123597077/8fc1f876-d91c-4867-acf9-46284823d206)
+
+
+Sign Up  Page
+![Screenshot 2024-06-29 142642](https://github.com/AbhishekBharambe2002/ChatApp/assets/123597077/90291ee2-ac33-4aea-bb54-1099bddf4eb5)
+
+
+Search User
+![Screenshot 2024-06-29 181259](https://github.com/AbhishekBharambe2002/ChatApp/assets/123597077/893d2bed-ed0d-4a36-82d1-4b649af7685d)
+
+
+![Screenshot 2024-06-29 181926](https://github.com/AbhishekBharambe2002/ChatApp/assets/123597077/66cc8b00-4f3d-4622-97e6-ec699d1251ea)
+
+
+Real Time Chat
+![Screenshot 2024-06-29 183512](https://github.com/AbhishekBharambe2002/ChatApp/assets/123597077/0b497c07-e591-48a1-a1ad-41f7cf6012c0)
+
+
+View Profile
+![Screenshot 2024-06-29 181545](https://github.com/AbhishekBharambe2002/ChatApp/assets/123597077/3e700b43-be91-434b-a47e-3f12007b2b32)
+
+Group Chat
+![Screenshot 2024-06-29 181958](https://github.com/AbhishekBharambe2002/ChatApp/assets/123597077/394f6131-586b-46e4-9801-024298dd2a74)
+
+
+
+![Screenshot 2024-06-29 181807](https://github.com/AbhishekBharambe2002/ChatApp/assets/123597077/15e6248a-76e2-487f-83b7-197864b91a74)
+
+
+Notification
+![Screenshot (154)](https://github.com/AbhishekBharambe2002/ChatApp/assets/123597077/a1587d4e-a27b-4444-96df-ac06d7126913)
+
+![Screenshot 2024-06-29 142931](https://github.com/AbhishekBharambe2002/ChatApp/assets/123597077/75011e3a-e584-40c8-a11a-812286390f2c)
+
+
+Typing Animation
+![Screenshot 2024-06-29 183447](https://github.com/AbhishekBharambe2002/ChatApp/assets/123597077/079c5429-3a3f-4322-ad44-5d0fd96b1e10)
