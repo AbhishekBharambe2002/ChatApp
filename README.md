@@ -23,7 +23,7 @@ Chat Sphere offers a comprehensive and user-friendly platform for dynamic and en
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/chat-app.git
+    git clone https://github.com/your-username/ChatApp.git
     cd chat-app
     ```
 
