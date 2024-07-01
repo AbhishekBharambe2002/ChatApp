@@ -23,13 +23,13 @@ Chat Sphere offers a comprehensive and user-friendly platform for dynamic and en
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/chat-sphere.git
-    cd chat-sphere
+    git clone https://github.com/your-username/chat-app.git
+    cd chat-app
     ```
 
 2. **Install dependencies for the backend**:
     ```bash
-    cd node-server
+    cd backend
     npm install
     ```
 
@@ -48,7 +48,7 @@ Chat Sphere offers a comprehensive and user-friendly platform for dynamic and en
 6. **Run the application**:
     ```bash
     # Run the backend server
-    cd node-server
+    cd backend
     npm start
 
     # Run the frontend development server
