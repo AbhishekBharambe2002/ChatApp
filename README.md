@@ -29,7 +29,7 @@ Chat Sphere offers a comprehensive and user-friendly platform for dynamic and en
 
 2. **Install dependencies for the backend**:
     ```bash
-    cd backend
+    cd node-server
     npm install
     ```
 
