@@ -48,7 +48,7 @@ Chat Sphere offers a comprehensive and user-friendly platform for dynamic and en
 6. **Run the application**:
     ```bash
     # Run the backend server
-    cd backend
+    cd node-server
     npm start
 
     # Run the frontend development server
